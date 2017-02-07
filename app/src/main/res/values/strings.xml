@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Jobportal</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="planets_array">
+        <item>type_a</item>
+        <item>type_b</item>
+        <item>type_c</item>
+
+    </string-array>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_third">ThirdActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="title_activity_fifth">FifthActivity</string>
+    <string name="title_activity_splash">Splash</string>
+
+</resources>
